@@ -23,4 +23,4 @@ visualisations can be found from FNGAPI_Analysis.docx and FNGAPI_Analysis.pdf.I 
 Excel-file named as Kokoelmat_final.xlsx as well as the bits of code for that was used in making it as well as the JSON-file downloaded
 from the Finnish National Gallery's website.
 
-
+This project is incomplete and there was issues with it. Hopefully I have time to fix these at some point.
